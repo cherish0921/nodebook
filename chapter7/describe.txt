@@ -1,0 +1,23 @@
+index.js
+    创建简单的http服务
+img.js
+    使用fs，createReadStream读取文件流
+form.js
+    form 表单一（定义form表单，post提交）
+form2.js
+   form 表单二（定义form表单，post提交res写入提交数据） 
+querystring.js
+    form表单，qs.parse解析一
+formquerystring.js
+    form表单三（定义form表单，post提交res写入qs.parse解析提交数据） 
+    非法路径进行404跳转
+twitterweb.js
+    发送一个简单的httq请求
+senddataclient.js
+    客户端发送数据
+senddataserver.js
+    服务端接收数据
+gettwitterdata.js
+    通过用户搜索获取twitter数据
+superagent.js
+    superagent扩展了response对象
