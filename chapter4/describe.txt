@@ -1,0 +1,2 @@
+index.js   global对象，process对象，模块，暴露API
+event.js   事件
